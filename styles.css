@@ -96,9 +96,25 @@ Top course
     grid-template-columns: repeat(3, 1fr);
     background-color: white;
     font-family: 'Poppins', sans-serif;
-    width: 870px; 
+    width: 870px;
+    height: 362px; 
 }
 .course img{
     width: 224px;
     height: 104px;
+}
+.course{
+Width: 252px;
+height: 269px;
+box-shadow: gray ;
+border-radius: 10px;
+} 
+.far{
+    background-color:  #FFE4E8;
+    border-radius: 20%;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
