@@ -106,7 +106,7 @@ Top course
 .course{
 Width: 252px;
 height: 269px;
-box-shadow: gray ;
+box-shadow: gray 10px 10px 5px  ;
 border-radius: 10px;
 } 
 .far{
